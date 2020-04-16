@@ -1,7 +1,7 @@
 # Feedforward Sequential Memory Networks
 PyTorch implementations for FSMN (Feedforward Sequential Memory Networks), cFSMN (Compact FSMN), DFSMN (Deep-FSMN), and Pyramidal-FSMN (PFSMN) units proposed by Zhang et al and Yang et al.
 
-The code base is currently under development.
+The code is based on "https://github.com/makeplanetoheaven/NlpModel.git" which is a tensorflow implenmention
 
 See:
 - Feedforward Sequential Memory Networks: A New Structure to Learn Long-term Dependency [[arXiv](https://arxiv.org/abs/1512.08301)]
